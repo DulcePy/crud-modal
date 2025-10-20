@@ -1,9 +1,9 @@
 ### CRUD Modal - Películas
 CRUD y listado de películas implementando formularios modal y notificaciones dinámicas para el usuario.
 
-## Preview
+## Project Preview
 
-<img width="700px" href="">
+<img width="700px" src="image/listado-peliculas.png">
 
 ## Tecnologías
 - PHP
