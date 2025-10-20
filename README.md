@@ -17,3 +17,4 @@ CRUD y listado de películas implementando formularios modal y notificaciones di
 - Xampp
 - HTML
 - CSS
+- SQL
